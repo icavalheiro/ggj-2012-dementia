@@ -1,0 +1,60 @@
+// Third-party softwares or licensed things we used
+	
+	Softwares:
+	 - Adobe Photoshop CS5
+	 - Game Maker HTML5
+	 - Format Factory
+	 - Audacity
+	
+
+
+Licensed objects:
+
+- Sound Effects from "Freesound" - http://freesound.org
+
+	Title: Heart Beat
+	Author: lovinghearts
+	Original Title: hbslow.wav
+	URL: http://www.freesound.org/people/lovinhearts/sounds/34092/
+	
+	Title: Wind Sound
+	Author: ERH
+	Original Title: wind.wav
+	URL: http://www.freesound.org/people/ERH/sounds/34338/
+	
+	Title: Breathing
+	Author: bevangoldswain
+	Original Title: heavy breathing off mic loop.wav
+	URL: http://www.freesound.org/people/bevangoldswain/sounds/54776/
+	
+	Title: Boink Catapulta
+	Author: simon.rue
+	Original Title: Boink_v3.wav
+	URL: http://www.freesound.org/people/simon.rue/sounds/61847/
+	
+	Title: Light Plins
+	Author: hjohnl
+	Original Title: Final angelic sound.wav
+	URL: http://www.freesound.org/people/hjohnl/sounds/61521/
+	
+	Title: Lamp Break
+	Author: datasoundsample
+	Original Title: glass shatter.wav
+	URL: http://www.freesound.org/people/datasoundsample/sounds/41348/
+	
+	Title: Death Sound
+	Author: Syna-Max
+	Original Title: death_scream.wav
+	URL: http://www.freesound.org/people/Syna-Max/sounds/58793/
+
+The other sound effects aswell as the soundtracks, were made by us.
+
+// Dementia's Team:
+	Gabriel Guerguen
+	Christoffer Oliveira
+	Bruno Kieling
+	Ivan Cavaleiro
+	Flávio Andrews
+	Desmond Quevedo
+	Laurent Quevedo
+	Alisson Daniel
